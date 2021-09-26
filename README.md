@@ -4,7 +4,7 @@ This creates a webpage with two eyes that follows the movement of your mouse. Th
 # How to Run this Project
 - Download the files
 - Open index.html in a browser
-- Move mouse to triggere eye movement
+- Move mouse to trigger eye movement
 
 # Roadmap
 Add more details to the eye
